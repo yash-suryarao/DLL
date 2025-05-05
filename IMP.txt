@@ -1,0 +1,6 @@
+GENSIM :
+Gensim is an open-source library for unsupervised topic modeling, document indexing, retrieval by similarity, and other natural language processing functionalities, using modern statistical machine learning.
+
+TF-IDF (Term Frequency-Inverse Document Frequency):
+TF-IDF is a statistical measure used in natural language processing and information retrieval to evaluate the importance of a word in a document relative to a collection of documents (corpus).
+
